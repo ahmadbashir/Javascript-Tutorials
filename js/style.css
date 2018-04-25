@@ -1,0 +1,13 @@
+body{
+  background-color: greenyellow;
+}
+
+.center{
+ 
+  position: absolute;
+  margin: auto;
+}
+
+.padding{
+  padding: 15px 5px 15px 5px;
+}
